@@ -1,7 +1,7 @@
 # Next.js Husky Template
 
-![License](https://img.shields.io/github/license/harshsoni-harsh/nextjs-husky-template)
-[![Build Status](https://github.com//harshsoni-harsh/nextjs-husky-template/workflows/CI/badge.svg)](https://github.com/harshsoni-harsh/nextjs-husky-template/actions/workflows/build.yml)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+![Build Status](https://github.com/harshsoni-harsh/nextjs-husky-template/actions/workflows/build.yml/badge.svg)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
 
 
@@ -96,7 +96,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -108,7 +108,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Stylelint](https://stylelint.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Commitlint](https://commitlint.js.org/)
-
----
-
-Feel free to customize any sections further based on your specific needs or preferences! This README now reflects the additional CI capabilities related to commit linting, enhancing its clarity and usefulness for users of your template repository.
