@@ -1,6 +1,5 @@
 # Next.js Husky Template
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ![Build Status](https://github.com/harshsoni-harsh/nextjs-husky-template/actions/workflows/build.yml/badge.svg)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)
 
@@ -93,10 +92,6 @@ Contributions are welcome! Please follow these steps:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
